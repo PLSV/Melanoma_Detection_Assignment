@@ -34,6 +34,7 @@ All images were sorted according to the classification taken with ISIC, and all 
 
 ## How to execute the notebook?
 - We need to upload the code into Google Colab and make sure that this is run on a GPU for faster processing.
+- Please make sure that the `CNN_assignment.zip` file is placed in the `/UpGrad` folder in the Google Drive. 
 - Please make sure that Google Colab has access to the dataset in the Google Drive directory mentioned in the code so that it can be accessed and mounted to start training the model.
 - Furthermore, it is recommended to run this through a GPU as a CPU will take a lot of time. With that in mind, please make sure that there are enough computing units to ensure that we can run this through a GPU.
 
